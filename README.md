@@ -1,6 +1,6 @@
 # cse210-student-template
-Student: Austin
 
+Student: Austin
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
