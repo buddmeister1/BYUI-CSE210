@@ -27,7 +27,14 @@ public class Journal
             entry.Display();
         }
 
-        double avg = _entries.Average(e => e.GetMood());
+        // Calculate avg mood
+        int total = 0;
+        foreach (Entry entry in _entries)
+        {
+            total += entry.GetMood();
+        }
+        double avg = (double)total / _entries.Count;
+
         Console.ForegroundColor = ConsoleColor.Magenta;
         Console.WriteLine($"Overall average mood: {avg:F1} / 5.0");
         Console.ResetColor();
