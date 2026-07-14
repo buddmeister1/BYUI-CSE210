@@ -6,6 +6,12 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
-  </PropertyGroup>
-
+  </PropertyGroup> 
+  
+  <ItemGroup>
+  <None Update="scriptures.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  
 </Project>
