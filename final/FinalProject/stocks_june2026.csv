@@ -1,0 +1,35 @@
+Ticker,CompanyName,Category,Sector,Price,PE_Ratio,DividendYield,BetaOrRiskNote,MomentumNote,DataConfidence,AsOfDate
+AAPL,Apple Inc,Popular,Technology,298.01,31.5,0.4,Low-Medium,YTD total return 9.62% - steady large-cap uptrend,Sourced,2026-06-18
+MSFT,Microsoft Corp,Popular,Technology,373.94,29.8,0.9,Medium,Down ~17% YTD after June tech selloff despite 18% cloud revenue growth,Sourced,2026-06-23
+AMZN,Amazon.com Inc,Popular,Consumer Discretionary,244.39,34.2,0.0,Medium,YTD total return 5.88% - steady growth,Sourced,2026-06-18
+GOOGL,Alphabet Inc Class A,Popular,Communication Services,358.00,26.9,0.2,Medium,Trading near 52-week high range before a July pullback,Sourced,2026-06-15
+NVDA,NVIDIA Corp,Popular,Technology,205.00,32.4,0.5,High,27% below 52-week high despite 85% revenue growth,Sourced,2026-06-15
+META,Meta Platforms Inc,Popular,Communication Services,580.00,18.0,0.3,Medium,Trading ~31% below Morningstar fair value estimate,Sourced,2026-06-08
+ABBV,AbbVie Inc,DividendGrowth,Healthcare,195.00,15.0,3.3,Low,53-year streak of dividend increases; raised FY guidance,Estimated,2026-06-15
+CVX,Chevron Corp,DividendGrowth,Energy,155.00,14.5,4.0,Medium,Nearly four decades of consecutive dividend increases,Estimated,2026-06-15
+PG,Procter & Gamble Co,DividendGrowth,Consumer Staples,146.42,24.0,3.0,Low,Q3 FY26 core EPS up 3% - reaffirmed guidance despite tariffs,Sourced,2026-06-15
+MDLZ,Mondelez International,DividendGrowth,Consumer Staples,61.55,19.0,3.25,Low,Trading ~17% below analyst price target on cocoa cost worries,Sourced,2026-06-15
+MCD,McDonalds Corp,DividendGrowth,Consumer Discretionary,305.00,25.0,2.2,Low,Approaching Dividend King status (near 50 straight yearly raises),Estimated,2026-06-15
+KO,Coca-Cola Co,DividendGrowth,Consumer Staples,64.00,23.5,2.9,Low,"Long-standing dividend aristocrat, defensive staple",Estimated,2026-06-15
+VOO,Vanguard S&P 500 ETF,ETF,Broad Market,663.00,n/a,1.2,Low,"First ETF to reach $1 trillion AUM, milestone hit June 3 2026",Sourced,2026-06-15
+VTI,Vanguard Total Stock Market ETF,ETF,Broad Market,310.00,n/a,1.2,Low,Broadest US market exposure - large/mid/small-cap blend,Estimated,2026-06-15
+SCHD,Schwab US Dividend Equity ETF,ETF,Dividend/Value,28.00,n/a,3.6,Low,"Up 18.3% YTD, outperforming several growth-tilted peers",Estimated,2026-06-15
+SCHG,Schwab US Large-Cap Growth ETF,ETF,Growth,29.00,n/a,0.4,Medium,Lowest-cost large-cap growth tilt at 0.04% expense ratio,Estimated,2026-06-15
+QQQ,Invesco QQQ Trust,ETF,Growth/Tech,600.00,n/a,0.5,Medium-High,"Up ~21% YTD, tech-heavy Nasdaq-100 exposure",Estimated,2026-06-15
+BND,Vanguard Total Bond Market ETF,ETF,Bonds,74.00,n/a,3.9,Low,30-year Treasury yield at 19-year highs benefits new bond buyers,Estimated,2026-06-15
+F,Ford Motor Co,GrowthBeginner,Consumer Discretionary,16.00,7.0,5.5,Medium,Low multiple but facing EV transition costs and tariff pressure,Sourced,2026-06-05
+SOFI,SoFi Technologies,GrowthBeginner,Financials/Fintech,17.00,45.0,0.0,High,Fast revenue growth but volatile on legal/short-seller headlines,Sourced,2026-06-05
+PFE,Pfizer Inc,GrowthBeginner,Healthcare,25.00,9.0,6.3,Low-Medium,Single-digit forward multiple with a yield above 6%,Sourced,2026-06-05
+T,AT&T Inc,GrowthBeginner,Communication Services,24.00,8.5,4.0,Low,Stable cash flow from wireless; heavy debt load caps upside,Sourced,2026-06-05
+WBD,Warner Bros Discovery,GrowthBeginner,Communication Services,27.00,n/a,0.0,High,Pending acquisition creates a catalyst but also deal-risk,Sourced,2026-06-05
+IONQ,IonQ Inc,GrowthBeginner,Technology/Quantum Computing,38.00,n/a,0.0,High,Quantum computing revenue growing 51% YoY - high-risk/high-reward,Estimated,2026-06-15
+PLTR,Palantir Technologies,GrowthBeginner,Technology/AI-Data Analytics,140.00,110.0,0.0,High,AI and big-data analytics demand across defense and commercial,Estimated,2026-06-15
+TTEK,Tetra Tech Inc,GrowthBeginner,Industrials/Environmental Services,45.00,32.6,0.75,Low-Medium,"Solid financials, infrastructure and sustainability project demand",Estimated,2026-06-15
+EXLS,ExlService Holdings,GrowthBeginner,Technology/AI Services,45.00,24.0,0.0,Medium,Growing demand for AI-driven digital transformation services,Estimated,2026-06-15
+SERV,Serve Robotics Inc,GrowthBeginner,Technology/Robotics,12.00,n/a,0.0,High,Autonomous delivery robots partnered with Uber Eats - early-stage,Estimated,2026-06-15
+AFRM,Affirm Holdings,GrowthBeginner,Financials/Fintech,60.00,n/a,0.0,High,"Buy-now-pay-later adoption growing, regulatory risk a watch-item",Estimated,2026-06-15
+U,Unity Software Inc,GrowthBeginner,Technology/Gaming Software,24.00,n/a,0.0,High,Core game-dev platform with AR/VR optionality,Estimated,2026-06-15
+RKLB,Rocket Lab Corp,GrowthBeginner,Industrials/Space,28.00,n/a,0.0,High,Named a top July 2026 growth stock across space technology,Estimated,2026-06-15
+LUMN,Lumen Technologies,GrowthBeginner,Communication Services/Fiber Infrastructure,9.83,n/a,0.0,High,350000 route miles of fiber - turnaround story with real risk,Sourced,2026-06-05
+FLYW,Flywire Corp,GrowthBeginner,Financials/Payments Technology,14.98,n/a,0.0,Medium,Valuation of 2.4x forward price-to-sales,Sourced,2026-06-05
+FRSH,Freshworks Inc,GrowthBeginner,Technology/SaaS,16.00,n/a,0.0,Medium,25.8% annual revenue growth over the last five years,Estimated,2026-06-15
